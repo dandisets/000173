@@ -17,9 +17,9 @@ assetsSummary:
   measurementTechnique:
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2175712
-  numberOfFiles: 2
-  numberOfSubjects: 1
+  numberOfBytes: 240963992
+  numberOfFiles: 118
+  numberOfSubjects: 30
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
@@ -27,18 +27,29 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - Units
-citation: ',  (2022) Rat S1 SEP+tFUS (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000173/draft'
+citation: Sandhya Ramachandran; Carnegie Mellon University (2022) Rat S1 SEP+tFUS
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000173/draft
 contributor:
-- affiliation: []
-  email: s.ramachandran8@gmail.com
+- affiliation:
+  - name: Carnegie Mellon University
+    schemaKey: Affiliation
+  email: sandhyar@andrew.cmu.edu
   includeInCitation: true
-  name: ', '
+  name: Sandhya Ramachandran
   roleName:
-  - dcite:ContactPerson
+  - dcite:DataCollector
+  - dcite:Author
   schemaKey: Person
+- contactPoint: []
+  includeInCitation: true
+  name: Carnegie Mellon University
+  roleName:
+  - dcite:Affiliation
+  schemaKey: Organization
 dateCreated: '2021-12-07T19:25:31.840248+00:00'
-description: ephys recordings from the rat S1HL with SEP induction through electrical
-  stimulation to the hind limb. Before and after tFUS at a variety of frequencies.
+description: spike trains from ephys recordings from the rat S1HL with SEP induction
+  through electrical stimulation to the hind limb. Before and after tFUS at a variety
+  of frequencies. sorted using kilosort2
 ethicsApproval: []
 id: DANDI:000173/draft
 identifier: DANDI:000173
