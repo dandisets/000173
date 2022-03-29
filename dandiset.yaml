@@ -27,8 +27,8 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - Units
-citation: Sandhya Ramachandran; Carnegie Mellon University (2022) Rat S1 SEP+tFUS
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000173/draft
+citation: Sandhya Ramachandran; Carnegie Mellon University; Xiaodan Niu; Kai Yu; Bin
+  He (2022) Rat S1 SEP+tFUS (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000173/draft
 contributor:
 - affiliation:
   - name: Carnegie Mellon University
@@ -46,6 +46,45 @@ contributor:
   roleName:
   - dcite:Affiliation
   schemaKey: Organization
+- affiliation:
+  - name: Carnegie Mellon University
+    schemaKey: Affiliation
+  email: xiaodann@andrew.cmu.edu
+  includeInCitation: true
+  name: Xiaodan Niu
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - name: Carnegie Mellon University
+    schemaKey: Affiliation
+  email: yukai@cmu.edu
+  includeInCitation: true
+  name: Kai Yu
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - name: Carnegie Mellon University
+    schemaKey: Affiliation
+  email: bhe1@andrew.cmu.edu
+  includeInCitation: true
+  name: Bin He
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- contactPoint: []
+  includeInCitation: false
+  name: NIH MH114233
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- contactPoint: []
+  includeInCitation: false
+  name: 'NIH NS124564 '
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2021-12-07T19:25:31.840248+00:00'
 description: spike trains from ephys recordings from the rat S1HL with SEP induction
   through electrical stimulation to the hind limb. Before and after tFUS at a variety
@@ -53,7 +92,12 @@ description: spike trains from ephys recordings from the rat S1HL with SEP induc
 ethicsApproval: []
 id: DANDI:000173/draft
 identifier: DANDI:000173
-keywords: []
+keywords:
+- Ultrasound
+- Plasticity
+- Rat
+- tFUS
+- Somatosensory Cortex
 license:
 - spdx:CC0-1.0
 manifestLocation:
@@ -64,7 +108,10 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
-studyTarget: []
+studyTarget:
+- Somatosensory Cortex
+- Rat
+- Plasticity
 url: https://dandiarchive.org/dandiset/000173/draft
 version: draft
 wasGeneratedBy: []
