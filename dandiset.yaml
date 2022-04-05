@@ -28,7 +28,9 @@ assetsSummary:
   variableMeasured:
   - Units
 citation: Sandhya Ramachandran; Carnegie Mellon University; Xiaodan Niu; Kai Yu; Bin
-  He (2022) Rat S1 SEP+tFUS (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000173/draft
+  He (2022) Neural Spiking Data in Primary Somatosensory Cortex before and after Transcranial
+  Focused Ultrasound Stimulation in Rats (Version draft) [Data set]. DANDI archive.
+  https://dandiarchive.org/dandiset/000173/draft
 contributor:
 - affiliation:
   - name: Carnegie Mellon University
@@ -102,7 +104,8 @@ license:
 - spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000173/versions/draft/assets/
-name: Rat S1 SEP+tFUS
+name: Neural Spiking Data in Primary Somatosensory Cortex before and after Transcranial
+  Focused Ultrasound Stimulation in Rats
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
