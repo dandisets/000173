@@ -33,7 +33,8 @@ citation: Sandhya Ramachandran; Carnegie Mellon University; Xiaodan Niu; Kai Yu;
   https://dandiarchive.org/dandiset/000173/draft
 contributor:
 - affiliation:
-  - name: Carnegie Mellon University
+  - identifier: https://ror.org/05x2bcf33
+    name: Carnegie Mellon University
     schemaKey: Affiliation
   email: sandhyar@andrew.cmu.edu
   includeInCitation: true
@@ -43,13 +44,15 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - contactPoint: []
+  identifier: https://ror.org/05x2bcf33
   includeInCitation: true
   name: Carnegie Mellon University
   roleName:
   - dcite:Affiliation
   schemaKey: Organization
 - affiliation:
-  - name: Carnegie Mellon University
+  - identifier: https://ror.org/05x2bcf33
+    name: Carnegie Mellon University
     schemaKey: Affiliation
   email: xiaodann@andrew.cmu.edu
   includeInCitation: true
@@ -58,7 +61,8 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - affiliation:
-  - name: Carnegie Mellon University
+  - identifier: https://ror.org/05x2bcf33
+    name: Carnegie Mellon University
     schemaKey: Affiliation
   email: yukai@cmu.edu
   includeInCitation: true
@@ -67,7 +71,8 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - affiliation:
-  - name: Carnegie Mellon University
+  - identifier: https://ror.org/05x2bcf33
+    name: Carnegie Mellon University
     schemaKey: Affiliation
   email: bhe1@andrew.cmu.edu
   includeInCitation: true
