@@ -94,9 +94,22 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2021-12-07T19:25:31.840248+00:00'
-description: spike trains from ephys recordings from the rat S1HL with SEP induction
-  through electrical stimulation to the hind limb. Before and after tFUS at a variety
-  of frequencies. sorted using kilosort2
+description: "In this study, we investigate how tFUS modulates neural interaction
+  and response to peripheral electrical limb stimulation through intracranial multi-electrode
+  recordings in the rat somatosensory cortex. Rats were anesthetized using isoflurane
+  anesthesia at 2%. Recordings were taken while delivering peripheral electrical stimulation
+  once every 5 seconds to analyze the neural response in the rat S1HL region, before
+  and after ultrasound. We deliver ultrasound for 5 minutes in a pulsed pattern at
+  5 different stimulation repetition frequencies (10 Hz, 50 Hz, 75 Hz, 100 Hz, and
+  125 Hz) to induce frequency dependent plasticity in a manner similar to that found
+  following tetanic electrical stimulation. The fundamental frequency of ultrasound
+  used was 0.5 MHz, the PRF was 3 kHz, and the total duty cycle was 36%. This dataset
+  includes spike timing data from the recordings including time before and after ultrasound
+  stimulation, for both a true ultrasound conditions and a sham ultrasound conditions
+  in which ultrasound is directed off target.\n\nDetails of the study are in the following
+  publication: \nS. Ramachandran, X. Niu, K. Yu, B. He, \"Transcranial ultrasound
+  neuromodulation induces neuronal correlation change in the rat somatosensory cortex\",
+  2022 J. Neural Eng. 19 056002\nhttps://pubmed.ncbi.nlm.nih.gov/35947970/"
 ethicsApproval: []
 id: DANDI:000173/draft
 identifier: DANDI:000173
