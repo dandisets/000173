@@ -29,8 +29,8 @@ assetsSummary:
   - Units
 citation: Ramachandran, Sandhya; Carnegie Mellon University; Niu, Xiaodan; Yu, Kai;
   He, Bin (2022) Neural Spiking Data in Primary Somatosensory Cortex before and after
-  Transcranial Focused Ultrasound Stimulation in Rats (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/000173/draft
+  Transcranial Focused Ultrasound Stimulation in Rats (Version 0.220927.0404) [Data
+  set]. DANDI archive. https://doi.org/10.48324/dandi.000173/0.220927.0404
 contributor:
 - affiliation:
   - identifier: https://ror.org/05x2bcf33
@@ -94,6 +94,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2021-12-07T19:25:31.840248+00:00'
+datePublished: '2022-09-27T04:04:41.848109+00:00'
 description: 'In this study, we investigate how transcranial focused ultrasound (tFUS)
   modulates neural interaction and response to peripheral electrical limb stimulation
   through intracranial multi-electrode recordings in the rat somatosensory cortex.
@@ -112,8 +113,9 @@ description: 'In this study, we investigate how transcranial focused ultrasound 
   neuronal correlation change in the rat somatosensory cortex", 2022 J. Neural Eng.
   19 056002 https://pubmed.ncbi.nlm.nih.gov/35947970/. Please cite this publication
   if you would use a portion of the data. '
+doi: 10.48324/dandi.000173/0.220927.0404
 ethicsApproval: []
-id: DANDI:000173/draft
+id: DANDI:000173/0.220927.0404
 identifier: DANDI:000173
 keywords:
 - Ultrasound
@@ -124,10 +126,22 @@ keywords:
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000173/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000173/0.220927.0404/assets.yaml
 name: Neural Spiking Data in Primary Somatosensory Cortex before and after Transcranial
   Focused Ultrasound Stimulation in Rats
 protocol: []
+publishedBy:
+  endDate: '2022-09-27T04:04:41.848109+00:00'
+  id: urn:uuid:73d6344c-b85e-4426-9472-424a88ca915b
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-09-27T04:04:41.848109+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:2eac1ed6-cb36-43dc-a1ee-b5ed02ab06d0
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
@@ -136,6 +150,6 @@ studyTarget:
 - Somatosensory Cortex
 - Rat
 - Plasticity
-url: https://dandiarchive.org/dandiset/000173/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000173/0.220927.0404
+version: 0.220927.0404
 wasGeneratedBy: []
